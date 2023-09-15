@@ -159,14 +159,7 @@ of bullets. If say, we wanted to write a _ranked_ list of favorite foods, it
 might look like:
 
 ```html
-<h3>Top 5 Favorite Foods</h3>
-<ol>
-  <li>Grilled Cheese</li>
-  <li>Sushi</li>
-  <li>Banh Mi</li>
-  <li>Tomato soup</li>
-  <li>Baba Ghanoush</li>
-</ol>
+
 ```
 
 **Top Tip:** Feel free to test this out by adding it to `index.html`, saving and
